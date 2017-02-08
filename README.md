@@ -10,6 +10,10 @@ URL: example.com
 DOC: example.com
 ```
 
+### Site de coleção de APIs
+
+https://any-api.com/
+
 ### Loterias
 
 http://wsloterias.azurewebsites.net/gettingstarted
