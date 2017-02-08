@@ -51,3 +51,11 @@ https://developers.vitortec.com/api/qrcode/
 ### Informações de domínio (whois)
 
 https://developers.vitortec.com/api/whois/
+
+### Previsão do tempo
+
+https://developers.vitortec.com/sdk/weather/
+
+### SDK para Integração InvoicePlane-PagSeguro.
+
+https://developers.vitortec.com/sdk/invoiceplane-pagseguro/
